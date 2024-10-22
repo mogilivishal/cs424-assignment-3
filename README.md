@@ -247,9 +247,9 @@ From the Assignment-1 we took Sankey plot. We selected **Sankey Plot** as it can
 * Added all the steps performed as comments in the sankey.ipynb file.
 * Used D3 to create the visualization to meet the requirements and obtain the desired viz.
 * When we hover over a link in the Sankey plot we will get the segement_length --> speed and the congestion level in that particular segment.
-  
-<img width="342" alt="Screenshot 2023-11-09 at 00 39 38" src="https://github.com/user-attachments/assets/bf09bfc3-04b9-4112-a126-015e908d99b6">
-  
+
+<img width="342" alt="4 2" src="https://github.com/user-attachments/assets/8f413a9b-5809-4052-ba3f-c384d465801a">
+
 
 
 
