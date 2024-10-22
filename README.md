@@ -4,7 +4,7 @@
 
 ### 1. Line Chart
 
-![line chart task-1](https://github.com/uic-cs424/assignment-3-chicagobulls/assets/144625177/4837a960-e1b9-476a-9c15-0324c1e8562c)
+![1](https://github.com/user-attachments/assets/75e20537-0377-48f9-ab11-1d1ff0e669cb)
 
 
 **Description:** The visualization is a line chart that shows the average speed over the hour of day. It allows us to view and interpret the data directly. It represents the average speed trends throughtout the day
@@ -16,7 +16,7 @@
 
 ### 2. Bar Chart
 
-![bar chart task-1](https://github.com/uic-cs424/assignment-3-chicagobulls/assets/144625177/12319e47-4631-4058-9b9a-f48af2ff5abd)
+![2](https://github.com/user-attachments/assets/90848739-5109-41a5-81a2-741dab123815)
 
 
 **Description:** The visualization is a bar chart that shows the top 10 most congested arterial streets. It also tells us about the streets with lowest average speeds, and traffic congestion on those streets.
@@ -28,7 +28,7 @@
 
 ### 3. Bubble Chart
 
-![bubble chart task-1](https://github.com/uic-cs424/assignment-3-chicagobulls/assets/144625177/d2ffc85c-ba15-4673-9332-6e964e6b505e)
+![3](https://github.com/user-attachments/assets/4efc1111-03ad-4409-bd8c-fb6a8eb54749)
 
 
 **Description:** The visualization is a bubble chart that shows the relationship between bus count (BUS_COUNT), average speed (SPEED) and segment length (LENGTH) giving us the insights how these attributes are correlated.
@@ -41,7 +41,7 @@
 
 ### 4. Box Plot
 
-![box-plot-task-1](https://github.com/uic-cs424/assignment-3-chicagobulls/assets/144625177/c5b9f269-dc99-4a54-9e82-fba962d234f3)
+![4](https://github.com/user-attachments/assets/06794a54-105c-4625-b705-995d6a14a57e)
 
 
 **Description:** The vertical box plots visualization gives the information about how speed vary from month to month which helps us to identify any potential seasonal patterns or trends. It helps us in identifying outliers and variations in speed.
@@ -54,7 +54,7 @@
 
 ### 5. Scatter Plot
 
-![scatter task-1](https://github.com/uic-cs424/assignment-3-chicagobulls/assets/144625177/d02b5a58-46ad-4459-9f13-c29d1ed89025)
+![5](https://github.com/user-attachments/assets/dee9368e-6e2d-4f94-b58f-52d7fb95efe8)
 
 
 **Description:** The scatter plot visualization shows us the correlations or trends between two quantitative variables: Segment Length (LENGTH) and Speed (SPEED). It helps us in identifying any potential connections between these attributes. 
@@ -67,7 +67,7 @@
 
 ### 6. Heatmap 
 
-![heatmap task-1](https://github.com/uic-cs424/assignment-3-chicagobulls/assets/144625177/dafe65e8-0ca3-4601-b3b9-266d9e8d311a)
+![6](https://github.com/user-attachments/assets/64545ecc-964c-4bc8-8837-0088c5be92c4)
 
 
 **Description:** The visualization is a heatmap which shows the level of congestion over hours of day and days of week. It uses different color variations for congestion levels, that allows us to identify patterns and trends in congestion.
@@ -82,7 +82,7 @@
 
 ### 1. Interactive Street Speed Visualization
 
-![bar chart task-2](https://github.com/uic-cs424/assignment-3-chicagobulls/assets/144625177/5a04a1e5-4867-4bfa-a5a5-4be8e354c056)
+![2 1](https://github.com/user-attachments/assets/4ab8cb10-abbd-4fc7-9056-f6317e66b65d)
 
 
 **Description:** The visualization is bar chart created using Vega-Lite, which shows us the average speed in streets along with capability to explore individual streets.
@@ -100,7 +100,7 @@
 
 ### 2. Linked Line Chart and Bubble Chart
 
-![line bubble task-2](https://github.com/uic-cs424/assignment-3-chicagobulls/assets/144625177/c93d1773-450b-4a6d-8574-41fc7f1c674c)
+![2 2](https://github.com/user-attachments/assets/85c1f2d2-e947-4899-8a35-159323cdf118)
 
 
 **Description:** This visualization has two views: a line chart and a bubble chart, created using Vega-Lite. It tells us how average speed and the number of buses vary over the hour of day for different streets. The interactivity in the visualization allows us to explore specific streets and patterns in speed & bus count.
@@ -125,7 +125,7 @@
 
 ### 3. Linked Scatter Plot and Histogram
 
-![scatter bar task-2](https://github.com/uic-cs424/assignment-3-chicagobulls/assets/144625177/a569d8f3-772a-4075-92cb-02ad69a5dc8b)
+![2 3](https://github.com/user-attachments/assets/37cbff46-72cf-42e7-9240-efb310a62415)
 
 
 **Description:** This linked visualization is a combination of two views: a scatter plot and a histogram. The scatter plot provides the insights about the relationship between vehicle speed (SPEED), bus count (BUS_COUNT), and message count (MESSAGE_COUNT).  Whereas the histogram tells us about the distribution of speeds, excluding missing values (NaN) and negative speeds.
@@ -147,7 +147,7 @@
 
 ### 4. Linked Line Chart and Heatmap
 
-![line heatmap task-2](https://github.com/uic-cs424/assignment-3-chicagobulls/assets/144625177/13f35089-cc2c-435b-a484-e036bc373ecc)
+![2 4](https://github.com/user-attachments/assets/a7721504-77cc-40b6-9b5f-008043c9c4a5)
 
 
 **Description:**  There are two views in this linked visualization: a heatmap and a line chart. The relationship between time (TIME) and speed (SPEED) is shown in the line chart, and the average speed distribution (SPEED) based on the day of the week (DAY_OF_WEEK) and hour of the day (HOUR) is shown in the heatmap.
@@ -168,7 +168,7 @@
 
 ### 5. Linked Bar Chart and Bubble Chart
 
-![bar scatter task-2](https://github.com/uic-cs424/assignment-3-chicagobulls/assets/144625177/1f5e9a5b-10c0-451c-8a5a-34c5a83f08d9)
+![2 5](https://github.com/user-attachments/assets/88e49920-d4b8-437d-a0ca-cb9bbff09020)
 
 
 **Description:** This linked visualization consists of a bar chart and a bubble chart to tell us about the top 10 most congested streets. The bar chart shows the streets along with their average congestion levels, while the bubble chart displays the relationship between bus counts, congestion levels, and segment length for the selected streets.
@@ -197,7 +197,7 @@
 
 ## Task 3: Spatial Visualization
 
-![spatial task-3](https://github.com/uic-cs424/assignment-3-chicagobulls/assets/144625177/c15bc4b5-50ae-4d62-ab0e-d4b7f7257662)
+![3 1](https://github.com/user-attachments/assets/b0e51df6-a26d-48ed-bdb1-eb3cfd2ce7d8)
 
 
 **Description:** This visualization is a combination of choropleth map of Chicago street congestion levels, line chart and heatmap. This allows users to explore and analyze relationship between time, congestion on street and day-week patterns.
@@ -241,15 +241,14 @@ From the Assignment-1 we took Sankey plot. We selected **Sankey Plot** as it can
 * Restricted the dataframe to get only top 100 rows.
 * Created a new column called value which is created with values 0, 1 and 2 (Not Congested, Congested and Extremely Congested)
   
-![image](https://github.com/uic-cs424/assignment-3-chicagobulls/assets/114699692/24ae7a26-671e-46d3-af70-c27ebf918080)
+![4 1](https://github.com/user-attachments/assets/2f915ca3-14d2-456c-9f4b-5c0a8c8131a2)
 
 * Converted the DF to a csv
 * Added all the steps performed as comments in the sankey.ipynb file.
 * Used D3 to create the visualization to meet the requirements and obtain the desired viz.
 * When we hover over a link in the Sankey plot we will get the segement_length --> speed and the congestion level in that particular segment.
   
- <img width="342" alt="Screenshot 2023-11-09 at 00 39 38" src="https://github.com/uic-cs424/assignment-3-chicagobulls/assets/144625177/67c0f861-7026-4b36-8a4d-3c16ad25cbac">
-
+![4 1](https://github.com/user-attachments/assets/bf09bfc3-04b9-4112-a126-015e908d99b6)
 
   
 
